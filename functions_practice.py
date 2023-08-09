@@ -21,8 +21,3 @@ def eat_lunch(lunch_list):
 hello()
 print(pack("1","2","3"))
 eat_lunch(["pasta", "orange slices", "cookie"])
-
-
-
-
-
